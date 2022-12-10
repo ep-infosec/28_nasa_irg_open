@@ -1,0 +1,11 @@
+add_subdirectory(IRGCameraSimPlugins)
+add_subdirectory(IRGCelestialBodyPlugin)
+add_subdirectory(IRGGlobalShaderParamPlugin)
+add_subdirectory(IRGIrradianceMapPlugin)
+add_subdirectory(IRGLightFrustaPlugin)
+add_subdirectory(IRGLinkTracksPlugin)
+add_subdirectory(IRGNearFarClipPlugin)
+add_subdirectory(IRGReloadShadersPlugin)
+add_subdirectory(IRGShadowParametersPlugins)
+add_subdirectory(IRGVisibilityPlugin)
+
